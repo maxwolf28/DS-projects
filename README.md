@@ -1,6 +1,6 @@
 # My data science learning projects
 
-Repo for Skillfactory homeworks and projects
+Repo for homeworks and learning projects
 
 ## Projects
 
