@@ -1,4 +1,4 @@
-# Project 3. Bank clients classification
+# Project 4. Bank clients classification
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
