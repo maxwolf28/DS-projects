@@ -8,4 +8,4 @@ Repo for homeworks and learning projects
 * [Project 1.   Resume Analysis from HeadHunter](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-1)
 * [Project 2.   Vacancies Analysis from HeadHunter](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-2)
 * [Project 3.   Booking reviews.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-3)
-* [Project 3.   Сlassification of bank clients.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-4)
+* [Project 4.   Сlassification of bank clients.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-4)
