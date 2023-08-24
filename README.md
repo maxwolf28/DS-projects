@@ -9,3 +9,4 @@ Repo for homeworks and learning projects
 * [Project 2.   Vacancies Analysis from HeadHunter](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-2)
 * [Project 3.   Booking reviews.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-3)
 * [Project 4.   Сlassification of bank clients.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-4)
+* [Project 5.   New York City Taxi Trip Duration.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-5)
