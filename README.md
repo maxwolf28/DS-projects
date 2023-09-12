@@ -1,6 +1,6 @@
 # My data science learning projects
 
-Repo for homeworks and learning projects
+Repo for learning and pet projects
 
 ## Projects
 
@@ -10,3 +10,4 @@ Repo for homeworks and learning projects
 * [Project 3.   Booking reviews.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-3)
 * [Project 4.   Сlassification of bank clients.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-4)
 * [Project 5.   New York City Taxi Trip Duration.](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-5)
+* [Project 6.   Segmentation of online gift store customers](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Project-6)
