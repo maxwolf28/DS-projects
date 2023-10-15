@@ -34,7 +34,7 @@ def make_mappers(books):
 
     return name_mapper, author_mapper
 
-def load_embeddings(file_name='./item_embeddings.pkl'):
+def load_embeddings(file_name='/mount/src/data-science-learning-projects/Mini_projects/Project-3/app/item_embeddings.pkl'):
     """
     Функция для загрузки векторных представлений.
     Возвращает прочитанные эмбеддинги книг и индекс (граф) для поиска похожих книг.
@@ -76,7 +76,7 @@ def get_recomendation_df(ids, distances, name_mapper, author_mapper):
     return recomendation_df
 
 #Загружаем данные
-ratings, books = read_files(folder_name='./data')
+ratings, books = read_files(folder_name='/mount/src/data-science-learning-projects/Mini_projects/Project-3/app/data')
 #Создаём словари для сопоставления id книг и их названий/авторов
 name_mapper, author_mapper = make_mappers(books)
 #Загружаем эмбеддинги и создаём индекс для поиска
