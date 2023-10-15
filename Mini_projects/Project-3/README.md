@@ -62,7 +62,7 @@ This dataset contains six million ratings for ten thousand most popular (with mo
 
 ### Результаты
 
-Построена требуемая рекомендательная система и развернут визуальный прототип, который доступен по [ссылке]()
+Построена требуемая рекомендательная система и развернут визуальный прототип, который доступен по [ссылке](https://maxwolf28-mini-projects-project-3.streamlit.app/)
 
 
 [к оглавлению](README.md#Оглавление)

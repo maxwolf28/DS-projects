@@ -76,7 +76,7 @@ def get_recomendation_df(ids, distances, name_mapper, author_mapper):
     return recomendation_df
 
 #Загружаем данные
-ratings, books = read_files(folder_name='data')
+ratings, books = read_files(folder_name='./data')
 #Создаём словари для сопоставления id книг и их названий/авторов
 name_mapper, author_mapper = make_mappers(books)
 #Загружаем эмбеддинги и создаём индекс для поиска
