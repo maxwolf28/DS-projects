@@ -8,4 +8,5 @@
 * [Project 2.   Vacancies Analysis from HeadHunter (SQL CRUID+JOIN) ](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-2)
 * [Project 3.   Building a recommendation system of books based on the goodbooks-10k dataset with the creation of a visual prototype based on streamlib](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-3)
 * [Project 4.   Building ... (NGINX+uWSGI+FLASK) ](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-4)
+* [Project 5.   Transfer learning in solving the problem of flower classification (Transfer learning and Fine-tuning) ](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-5)
 
