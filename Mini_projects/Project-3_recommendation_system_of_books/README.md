@@ -62,7 +62,8 @@ This dataset contains six million ratings for ten thousand most popular (with mo
 
 ### Результаты
 
-Построена требуемая рекомендательная система - построение модели и получение эмбеддингов в [ноутбуке](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-3/rs_building.ipynb) и развернут визуальный [прототип](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-3/app/app.py), который развернут на streamlib cloud и доступен по [ссылке](https://maxwolf28-mini-projects-project-3.streamlit.app/)
+Построена требуемая рекомендательная система - построение модели и получение эмбеддингов в [ноутбуке](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-3/rs_building.ipynb) и развернут визуальный [прототип](https://github.com/maxwolf28/data-science-learning-projects/tree/main/Mini_projects/Project-3/app/app.py), который развернут на streamlib cloud и доступен по [ссылке](https://project-3-recommendation-system-of-books.streamlit.app/)
+![Alt text](image.png)
 
 
 [к оглавлению](README.md#Оглавление)
