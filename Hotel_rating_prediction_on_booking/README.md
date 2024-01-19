@@ -1,4 +1,4 @@
-# Project 3. Booking reviews.
+# Project 3. Hotel rating on booking prediction.
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
