@@ -1,9 +1,9 @@
-# PROJECT-4. Microservice architecture using RabbitMQ
+# PROJECT-4. Microservice architecture app using RabbitMQ
 
 ## Оглавление  
-[1. Описание проекта](README.md#Описание-проекта)
-[3. Установка](README.md#Установка-и-запуск)
-[3. Результаты](README.md#Результаты)    
+* [1. Описание проекта](README.md#Описание-проекта)
+* [3. Установка](README.md#Установка-и-запуск)
+* [3. Результаты](README.md#Результаты)    
 
 ## Описание проекта    
 
